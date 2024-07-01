@@ -23,7 +23,7 @@ ReactDOM.render(<App />, document.getElementById("root"));`;
   };
 
   const handleGithubRedirect = () => {
-    window.location.href = 'https://www.github.com';
+    window.location.href = 'https://github.com/pratikraj315/react-simple-code-editor';
   };
 
   return (
